@@ -1,2 +1,2 @@
 # MH20
-A simple data compression algorithm.
+A simple lossless data compression algorithm.
